@@ -1,0 +1,4 @@
+wwwroot\app.css
+wwwroot\index.html
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\app.css
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\index.html

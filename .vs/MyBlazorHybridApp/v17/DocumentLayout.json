@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T01:57:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Pages\\Todo.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Todo.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Pages\\Todo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:52:24.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:21:02.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Calculator.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Pages\\Calculator.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Calculator.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Pages\\Calculator.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T01:19:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Pages\\Counter.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Pages\\Counter.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T00:53:30.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web.Client\wwwroot\appsettings.Development.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web.Client\wwwroot\appsettings.json

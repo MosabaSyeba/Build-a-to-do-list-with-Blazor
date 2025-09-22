@@ -1,0 +1,7 @@
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\app.css
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\wwwroot\bootstrap\bootstrap.min.css.map

@@ -1,0 +1,6 @@
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json

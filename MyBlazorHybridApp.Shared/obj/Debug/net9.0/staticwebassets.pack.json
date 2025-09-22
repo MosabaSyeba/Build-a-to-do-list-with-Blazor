@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MyBlazorHybridApp.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyBlazorHybridApp.Shared.65s8peu0er.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyBlazorHybridApp.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyBlazorHybridApp.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MyBlazorHybridApp.Shared.props",
+      "PackagePath": "build\\MyBlazorHybridApp.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MyBlazorHybridApp.Shared.props",
+      "PackagePath": "buildMultiTargeting\\MyBlazorHybridApp.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MyBlazorHybridApp.Shared.props",
+      "PackagePath": "buildTransitive\\MyBlazorHybridApp.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
