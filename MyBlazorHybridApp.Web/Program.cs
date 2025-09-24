@@ -1,20 +1,20 @@
-using MyBlazorHybridApp.Shared.Services;
+﻿using MyBlazorHybridApp.Shared.Services;
 using MyBlazorHybridApp.Web.Components;
 using MyBlazorHybridApp.Web.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ✅ Tambahkan layanan komponen Blazor
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
 
-// Add device-specific services used by the MyBlazorHybridApp.Shared project
+// ✅ Registrasi service shared (jika kamu punya implementasi FormFactor)
 builder.Services.AddSingleton<IFormFactor, FormFactor>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ✅ Konfigurasi pipeline HTTP
 if (app.Environment.IsDevelopment())
 {
     app.UseWebAssemblyDebugging();
@@ -22,14 +22,17 @@ if (app.Environment.IsDevelopment())
 else
 {
     app.UseExceptionHandler("/Error", createScopeForErrors: true);
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
-
 app.UseStaticFiles();
-app.UseAntiforgery();
+
+app.UseRouting();            // ✅ Harus sebelum UseAntiforgery dan MapRazorComponents
+app.UseAntiforgery();        // ✅ Harus setelah UseRouting()
+
+// ✅ Penting: panggil MapStaticAssets sebelum MapRazorComponents
+app.MapStaticAssets();
 
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()

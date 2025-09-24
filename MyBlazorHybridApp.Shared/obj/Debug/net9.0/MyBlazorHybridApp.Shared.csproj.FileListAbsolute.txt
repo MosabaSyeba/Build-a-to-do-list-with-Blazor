@@ -9,6 +9,7 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\ne
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.AssemblyInfoInputs.cache
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.AssemblyInfo.cs
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.csproj.CoreCompileInputs.cache
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.sourcelink.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -16,9 +17,15 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\ne
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\scopedcss\bundle\MyBlazorHybridApp.Shared.styles.css
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\scopedcss\projectbundle\MyBlazorHybridApp.Shared.bundle.scp.css
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\2uwmg4m7rw-da95v2qkru.gz
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\nhp0wgjyze-6gzpyzhau4.gz
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\c7fy40oyuv-8inm30yfxf.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\icsdfwq2gx-z5jyisouil.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\uqdl78ow9p-7trb2i0i7p.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\xe4zniw9pc-wectlz5c0t.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\nkulwy33er-ncetp8mlyh.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\ta8ljnte9u-61n19gt1b8.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\6l8nxpcbl2-t85h72ba0q.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\jbhtc9itc2-m1cac4k06w.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\7ntkh3qpox-iahulk2e06.gz
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\3alg73nbgy-a9psvnqkry.gz
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\f2zq14i2vg-65s8peu0er.gz
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\compressed\bnd4osq77n-65s8peu0er.gz
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
@@ -31,7 +38,6 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\ne
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyBlazorHybridApp.Shared.props
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyBlazorHybridApp.Shared.props
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.pack.json
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.dll
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\refint\MyBlazorHybridApp.Shared.dll
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\MyBlazorHybridApp.Shared.pdb

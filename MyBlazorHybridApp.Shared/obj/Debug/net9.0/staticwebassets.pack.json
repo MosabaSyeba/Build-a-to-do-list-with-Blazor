@@ -5,20 +5,108 @@
       "PackagePath": "staticwebassets\\MyBlazorHybridApp.Shared.65s8peu0er.bundle.scp.css"
     },
     {
-      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\app.css",
-      "PackagePath": "staticwebassets\\app.css"
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff"
     },
     {
-      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand.css"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\bike.svg",
+      "PackagePath": "staticwebassets\\img\\bike.svg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\icon-512.png",
+      "PackagePath": "staticwebassets\\img\\icon-512.png"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizza-slice.svg",
+      "PackagePath": "staticwebassets\\img\\pizza-slice.svg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\bacon.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\brit.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\brit.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\cheese.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\margherita.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\meaty.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\mushroom.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\pepperoni.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\pizzas\\salad.jpg",
+      "PackagePath": "staticwebassets\\img\\pizzas\\salad.jpg"
+    },
+    {
+      "Id": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\img\\user.svg",
+      "PackagePath": "staticwebassets\\img\\user.svg"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MyBlazorHybridApp.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

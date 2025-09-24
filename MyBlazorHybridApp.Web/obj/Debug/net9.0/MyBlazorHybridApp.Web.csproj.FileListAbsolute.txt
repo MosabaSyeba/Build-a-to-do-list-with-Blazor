@@ -56,6 +56,7 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazorHybridApp.Web.AssemblyInfo.cs
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazorHybridApp.Web.csproj.CoreCompileInputs.cache
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazorHybridApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazorHybridApp.Web.sourcelink.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -65,7 +66,6 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\staticwebassets.development.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazor.A3D577AC.Up2Date
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\MyBlazorHybridApp.Web.dll
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Web\obj\Debug\net9.0\refint\MyBlazorHybridApp.Web.dll

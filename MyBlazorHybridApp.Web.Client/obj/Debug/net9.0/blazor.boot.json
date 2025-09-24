@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MyBlazorHybridApp.Web.Client",
   "resources": {
-    "hash": "sha256-TObdIIV3dZE9ChDpZoQMgnG5fUHOxZuArxb9xMCpShc=",
+    "hash": "sha256-niZJJ1vPWq0LLq0hjP70qgUA5NyBZgPOfCgzj4hMCZg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.n7we7nbch1.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.waskkzx0nn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,10 +201,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MyBlazorHybridApp.Shared.ofwfu6zs0x.wasm": "MyBlazorHybridApp.Shared.wasm",
-      "MyBlazorHybridApp.Shared.frhjj82bb9.pdb": "MyBlazorHybridApp.Shared.pdb",
-      "MyBlazorHybridApp.Web.Client.plnbt3af4y.wasm": "MyBlazorHybridApp.Web.Client.wasm",
-      "MyBlazorHybridApp.Web.Client.vg3pxcr8a3.pdb": "MyBlazorHybridApp.Web.Client.pdb"
+      "MyBlazorHybridApp.Shared.7to3ze86sp.wasm": "MyBlazorHybridApp.Shared.wasm",
+      "MyBlazorHybridApp.Shared.52f0z5nk0k.pdb": "MyBlazorHybridApp.Shared.pdb",
+      "MyBlazorHybridApp.Web.Client.8ufgbnr66w.wasm": "MyBlazorHybridApp.Web.Client.wasm",
+      "MyBlazorHybridApp.Web.Client.2fzhtwpugi.pdb": "MyBlazorHybridApp.Web.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.9ih887ebfz.js": "sha256-oS7IRiQoVt9ThQ7Y2UM3XoeY0JqPD02cg9IvRdufn2w="
@@ -414,12 +414,12 @@
       "WindowsBase.vy2l5u79y6.wasm": "sha256-ufB9Mo5joMyUs3DzXWWBFFIZNEVrt6h9N5stYB6Oln4=",
       "mscorlib.xd6mv31d55.wasm": "sha256-1YSLR2eZt3ceALFV//vZUF2AloxVil3VlrW1zZYPSEI=",
       "netstandard.kaml52uspo.wasm": "sha256-HLEwBpLfzKw2/zGSVzHzFJxznCkt/WIjahrziiMrOpA=",
-      "MyBlazorHybridApp.Shared.ofwfu6zs0x.wasm": "sha256-DMihcG4CBkvl1G5dOtLJM6rvx4O8iVQYmT68sntw8Yo=",
-      "MyBlazorHybridApp.Web.Client.plnbt3af4y.wasm": "sha256-PdW3QUD2N0BYnuy4vtuc2ym37wxxX3o7/mklnaaflHI="
+      "MyBlazorHybridApp.Shared.7to3ze86sp.wasm": "sha256-W5sWS6cslGxPyddBIUvt1v0ZT0FleZEemGYp6T7dOqE=",
+      "MyBlazorHybridApp.Web.Client.8ufgbnr66w.wasm": "sha256-0HSj0yKHAiCI59wZ2mkv+1tDVfIdMBSSXNBZuH3DEYQ="
     },
     "pdb": {
-      "MyBlazorHybridApp.Shared.frhjj82bb9.pdb": "sha256-q9OjyJijwvFWSzVEdBzGU/hi8OOcE7A2Vq9Bbhn4z7w=",
-      "MyBlazorHybridApp.Web.Client.vg3pxcr8a3.pdb": "sha256-z/79A5/6tk8kYuPWQKkuiVguwMGhqnLQjc0n4iaioAg="
+      "MyBlazorHybridApp.Shared.52f0z5nk0k.pdb": "sha256-PfM9Mki4oWJHtm0bVGi5iiHo8x5m7DwLfx+pMY7Xiuw=",
+      "MyBlazorHybridApp.Web.Client.2fzhtwpugi.pdb": "sha256-cmVrbrkfDiGKekC2z6s/uuDA50JaiPourLk9T8ajmcU="
     }
   },
   "cacheBootResources": true,
