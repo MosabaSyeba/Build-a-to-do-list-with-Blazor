@@ -1,20 +1,30 @@
 ﻿using MyBlazorHybridApp.Shared.Services;
 using MyBlazorHybridApp.Web.Components;
+using MyBlazorHybridApp.Web.Data;      // PizzaStoreContext & SeedData
 using MyBlazorHybridApp.Web.Services;
+using Microsoft.EntityFrameworkCore;   // AddDbContext, UseSqlite
 
 var builder = WebApplication.CreateBuilder(args);
 
-// ✅ Tambahkan layanan komponen Blazor
+// === Blazor Hybrid setup ===
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
 
-// ✅ Registrasi service shared (jika kamu punya implementasi FormFactor)
 builder.Services.AddSingleton<IFormFactor, FormFactor>();
 
+// === HttpClient & Controller ===
+builder.Services.AddHttpClient();
+builder.Services.AddControllers();
+
+// === DbContext registration (perbaikan) ===
+builder.Services.AddDbContext<PizzaStoreContext>(options =>
+    options.UseSqlite("Data Source=pizza.db"));
+
+// === Build app ===
 var app = builder.Build();
 
-// ✅ Konfigurasi pipeline HTTP
+// === Middleware ===
 if (app.Environment.IsDevelopment())
 {
     app.UseWebAssemblyDebugging();
@@ -27,18 +37,30 @@ else
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
-app.UseRouting();            // ✅ Harus sebelum UseAntiforgery dan MapRazorComponents
-app.UseAntiforgery();        // ✅ Harus setelah UseRouting()
-
-// ✅ Penting: panggil MapStaticAssets sebelum MapRazorComponents
+app.UseRouting();
+app.UseAntiforgery();
 app.MapStaticAssets();
 
+// === Razor Components ===
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(
         typeof(MyBlazorHybridApp.Shared._Imports).Assembly,
         typeof(MyBlazorHybridApp.Web.Client._Imports).Assembly);
+
+// === Initialize database (dengan scope) ===
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<PizzaStoreContext>();
+    if (db.Database.EnsureCreated())
+    {
+        SeedData.Initialize(db);
+    }
+}
+
+// === Controller routes ===
+app.MapControllers();
+app.MapControllerRoute("default", "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace BlazingPizza
+namespace MyBlazorHybridApp.Shared.Models
+
 {
     public class OrderWithStatus
     {

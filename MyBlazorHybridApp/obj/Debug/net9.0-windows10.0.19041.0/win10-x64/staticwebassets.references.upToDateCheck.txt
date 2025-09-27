@@ -4,3 +4,5 @@ C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\ne
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp.Shared\obj\Debug\net9.0\staticwebassets.build.json

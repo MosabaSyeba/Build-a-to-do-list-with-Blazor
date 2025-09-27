@@ -1,0 +1,13 @@
+﻿@using Microsoft.AspNetCore.Components.Routing
+@using MyBlazorHybridApp.Shared
+
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MyBlazorHybridApp.Shared.Layout.MainLayout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(MyBlazorHybridApp.Shared.Layout.MainLayout)">
+            <p>Halaman tidak ditemukan.</p>
+        </LayoutView>
+    </NotFound>
+</Router>

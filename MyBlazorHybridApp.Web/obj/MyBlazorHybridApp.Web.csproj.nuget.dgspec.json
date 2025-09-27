@@ -204,6 +204,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj": {
+                "projectPath": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj"
+              },
               "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj": {
                 "projectPath": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj"
               }
@@ -229,6 +232,10 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
             }
           },
           "imports": [

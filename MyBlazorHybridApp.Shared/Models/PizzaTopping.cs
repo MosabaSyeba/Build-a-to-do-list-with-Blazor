@@ -1,4 +1,4 @@
-﻿namespace BlazingPizza
+﻿namespace MyBlazorHybridApp.Shared.Models
 {
     public class PizzaTopping
     {

@@ -1,5 +1,4 @@
 wwwroot\app.css
-wwwroot\index.html
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\css\font\quicksand-v8-latin-300.woff
@@ -26,8 +25,9 @@ wwwroot\img\pizzas\mushroom.jpg
 wwwroot\img\pizzas\pepperoni.jpg
 wwwroot\img\pizzas\salad.jpg
 wwwroot\img\user.svg
-C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\app.css
+wwwroot\index.html
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\index.html
+C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\app.css
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css.map
 C:\PemrogramanMobile_640\MyBlazorHybridApp\MyBlazorHybridApp\wwwroot\css\font\quicksand.css

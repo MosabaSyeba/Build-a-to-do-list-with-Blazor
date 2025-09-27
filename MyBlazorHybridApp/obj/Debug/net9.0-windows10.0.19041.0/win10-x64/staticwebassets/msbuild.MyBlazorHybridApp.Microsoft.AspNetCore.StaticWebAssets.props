@@ -552,12 +552,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>jaywp0j7pr</Fingerprint>
-      <Integrity>ZeEQKuTYlOHL1C6aQNO0aAFTVXkTvf/8kM2hT5O205Y=</Integrity>
+      <Fingerprint>gzm78e6d2z</Fingerprint>
+      <Integrity>HBBZpCk5fJh94rmkGNgbqnZ0gJpJrNYH/nKDtVApQ+0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>802</FileLength>
-      <LastWriteTime>Mon, 22 Sep 2025 00:28:39 GMT</LastWriteTime>
+      <FileLength>882</FileLength>
+      <LastWriteTime>Wed, 24 Sep 2025 06:26:32 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyBlazorHybridApp.styles.css'))">
@@ -577,7 +577,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>99</FileLength>
-      <LastWriteTime>Mon, 22 Sep 2025 00:30:06 GMT</LastWriteTime>
+      <LastWriteTime>Fri, 26 Sep 2025 21:06:07 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyBlazorHybridApp.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

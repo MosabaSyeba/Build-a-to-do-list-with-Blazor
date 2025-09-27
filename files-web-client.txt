@@ -1,0 +1,10 @@
+App.razor
+bin
+MyBlazorHybridApp.Web.Client.csproj
+obj
+Pages
+Program.cs
+Properties
+Services
+wwwroot
+_Imports.razor

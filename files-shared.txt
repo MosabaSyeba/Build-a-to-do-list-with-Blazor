@@ -1,0 +1,9 @@
+bin
+Layout
+Models
+MyBlazorHybridApp.Shared.csproj
+obj
+Routes.razor
+Services
+wwwroot
+_Imports.razor

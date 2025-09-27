@@ -139,64 +139,48 @@ form {
         padding: 0;
     }
 
+/* Penyesuaian pizza cards */
 .pizza-cards {
+    list-style: none;
     display: grid;
-    grid-template-columns: repeat(auto-fill, 20rem);
-    grid-gap: 2rem;
-    justify-content: center;
-    padding-left: 0;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 0;
 }
 
-    .pizza-cards > li {
-        height: 10rem;
+    .pizza-cards li {
         position: relative;
+        height: 200px;
+        border-radius: 10px;
+        overflow: hidden;
         background-size: cover;
-        border-radius: 0.5rem;
-        list-style-type: none;
-        box-shadow: 0 3px 4px rgba(0,0,0,0.4);
-        transition: 0.1s ease-out;
+        background-position: center;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        display: flex;
+        align-items: flex-end;
     }
 
-        .pizza-cards > li:hover {
-            transform: scale(1.02);
-        }
-
-.pizza-info {
-    border-radius: 0.5rem;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    position: absolute;
-    background: linear-gradient(rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 80%);
-    padding: 1rem 1rem;
-    color: #fff2cc;
-    cursor: pointer;
-    text-shadow: 0 2px 2px rgba(0,0,0,0.5);
-    line-height: 1.25rem;
+/* Penyesuaian pizza info dalam cards */
+.pizza-cards {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 0;
 }
 
-    .pizza-info .title {
-        color: white;
-        font-size: 1.4rem;
-        display: block;
-        margin: 0.2rem 0 0.4rem 0;
-        font-family: 'Bahnschrift', Arial, Helvetica, sans-serif;
-        text-transform: uppercase;
+    .pizza-cards li {
+        position: relative;
+        height: 200px;
+        border-radius: 10px;
+        overflow: hidden;
+        background-size: cover;
+        background-position: center;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        display: flex;
+        align-items: flex-end;
     }
 
-    .pizza-info .price {
-        position: absolute;
-        bottom: 0.5rem;
-        right: 1rem;
-        font-size: 1.5rem;
-        font-weight: 700;
-        padding: 0rem 0.7rem;
-        border-radius: 4px;
-        background-color: #08af08;
-        color: white;
-        line-height: 2rem;
-    }
 
 .price::before {
     content: '£';
@@ -756,3 +740,72 @@ input[type=range] {
         transform: translateX(500px);
     }
 }
+
+
+/* Tambahan untuk index atau home untuk pembuatan card*/
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #c0392b;
+}
+
+/* Grid cards */
+.pizza-cards {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    padding: 0;
+}
+
+    .pizza-cards li {
+        position: relative;
+        height: 200px;
+        border-radius: 10px;
+        overflow: hidden;
+        background-size: cover;
+        background-position: center;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        display: flex;
+        align-items: flex-end;
+    }
+
+/* --- Override styling pizza cards di Index --- */
+.pizza-info {
+    background: rgba(0, 0, 0, 0.6); /* hitam transparan */
+    color: white;
+    padding: 10px;
+    width: 100%;
+    font-size: 0.9rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+    .pizza-info .title {
+        font-weight: bold;
+        font-size: 1.2rem;
+        text-transform: uppercase;
+    }
+
+    .pizza-info p {
+        margin: 0;
+        font-size: 0.9rem;
+    }
+
+    /* Harga di pojok kanan bawah */
+    .pizza-info .price {
+        background: #2ecc71;
+        color: white;
+        font-weight: bold;
+        padding: 4px 8px;
+        border-radius: 5px;
+        align-self: flex-end;
+    }

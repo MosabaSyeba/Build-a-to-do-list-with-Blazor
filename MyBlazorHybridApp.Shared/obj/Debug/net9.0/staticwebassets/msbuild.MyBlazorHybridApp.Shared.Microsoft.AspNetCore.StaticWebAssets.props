@@ -537,7 +537,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>5938</FileLength>
-      <LastWriteTime>Wed, 24 Sep 2025 16:41:36 GMT</LastWriteTime>
+      <LastWriteTime>Sat, 27 Sep 2025 13:06:39 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyBlazorHybridApp.Shared.65s8peu0er.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>

@@ -1,0 +1,10 @@
+appsettings.Development.json
+appsettings.json
+bin
+Components
+MyBlazorHybridApp.Web.csproj
+MyBlazorHybridApp.Web.csproj.user
+obj
+Program.cs
+Properties
+Services

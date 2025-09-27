@@ -3,36 +3,104 @@
   "WorkspaceRootPath": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\controllers\\specialscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\controllers\\specialscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\controllers\\pizzastorecontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\controllers\\pizzastorecontext.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\myblazorhybridapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\myblazorhybridapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\myblazorhybridapp.web.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\myblazorhybridapp.web.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\wwwroot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\wwwroot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\orderwithstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\topping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\models\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\models\\pizzatopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\myblazorhybridapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\myblazorhybridapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D0FB73C-B2CF-4F9A-B4F8-93FBF72C0142}|MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj|solutionrelative:myblazorhybridapp.web\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\wwwroot\\img\\bike.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -41,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E1D3EA92-CBD0-4D73-A7B7-F1AA8CFD5E7D}|MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj|solutionrelative:myblazorhybridapp.web.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE172F3D-E1CD-47D0-918D-E6FA47DD7D84}|MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj|solutionrelative:myblazorhybridapp.shared\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFD2AF65-A3C5-41DD-9A05-E535D0311627}|MyBlazorHybridApp\\MyBlazorHybridApp.csproj|c:\\pemrogramanmobile_640\\myblazorhybridapp\\myblazorhybridapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,50 +126,282 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T16:30:24.035Z",
+              "DocumentIndex": 0,
+              "Title": "SpecialsControllers.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Controllers\\SpecialsControllers.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Controllers\\SpecialsControllers.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Controllers\\SpecialsControllers.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Controllers\\SpecialsControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T12:37:34.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Program.cs",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Program.cs",
-              "RelativeToolTip": "MyBlazorHybridApp.Web\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Controllers\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Controllers\\PizzaStoreContext.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Controllers\\PizzaStoreContext.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Controllers\\PizzaStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:14:45.215Z",
+              "WhenOpened": "2025-09-27T12:33:33.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
-              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T16:06:09.897Z",
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\Pages\\Index.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T19:15:15.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAADAAAAAAAAAAAYwBYDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-24T06:22:53.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBlazorHybridApp.Web.csproj",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj*",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\MyBlazorHybridApp.Web.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T20:15:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Components\\_Imports.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\_Imports.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T13:46:07.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyBlazorHybridApp.Web.Client.csproj",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\MyBlazorHybridApp.Web.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T19:53:36.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\Pizza.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Pizza.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:05:08.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T16:30:24.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\Program.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\Program.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:48:00.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\App.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\App.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\App.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T19:54:51.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Program.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Program.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:14:45.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\PizzaSpecial.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\PizzaSpecial.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\PizzaSpecial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T19:14:21.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T20:53:27.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\wwwroot\\appsettings.Development.json",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\appsettings.Development.json",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\wwwroot\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T20:14:24.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\Order.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Order.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:07:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderWithStatus.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\OrderWithStatus.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\OrderWithStatus.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\OrderWithStatus.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\OrderWithStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:07:42.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\Address.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Address.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:06:36.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\UserInfo.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:08:23.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Topping.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Topping.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\Topping.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\Topping.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\Topping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:08:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T16:06:09.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PizzaTopping.cs",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\PizzaTopping.cs",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Models\\PizzaTopping.cs",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Models\\PizzaTopping.cs",
+              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Models\\PizzaTopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T20:07:55.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Components\\App.razor",
@@ -113,65 +409,12 @@
               "RelativeToolTip": "MyBlazorHybridApp.Web\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T05:37:18.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T05:37:18.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Components\\_Imports.razor",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\_Imports.razor",
-              "RelativeToolTip": "MyBlazorHybridApp.Web\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T13:46:07.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T05:37:04.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bike.svg",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
-              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-09-24T13:46:29.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\_Imports.razor",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\_Imports.razor",
-              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-24T13:45:52.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyBlazorHybridApp.Shared",
+              "DocumentIndex": 23,
+              "Title": "MyBlazorHybridApp.Shared.csproj",
               "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj",
               "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj",
               "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\MyBlazorHybridApp.Shared.csproj",
@@ -183,7 +426,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Web\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T05:37:04.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bike.svg",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\wwwroot\\img\\bike.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-09-24T13:46:29.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\_Imports.razor",
+              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\_Imports.razor",
+              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-24T13:45:52.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "index.html",
               "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "MyBlazorHybridApp\\wwwroot\\index.html",
@@ -191,25 +470,11 @@
               "RelativeToolTip": "MyBlazorHybridApp\\wwwroot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-24T06:25:03.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T06:25:03.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "MyBlazorHybridApp.Web.Client\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAMEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-24T06:22:53.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "site.css",
               "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
@@ -217,21 +482,7 @@
               "RelativeToolTip": "MyBlazorHybridApp.Shared\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAM4CAAAAAAAAAAAgwPUCAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-24T04:28:38.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\PemrogramanMobile_640\\MyBlazorHybridApp\\MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "MyBlazorHybridApp.Shared\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-23T20:53:27.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T04:28:38.569Z"
             }
           ]
         }
